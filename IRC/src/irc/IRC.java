@@ -7,7 +7,7 @@ package irc;
 
 /**
  *
- * @author 15111287
+ * @author lucaslpsilveira
  */
 public class IRC {
 
